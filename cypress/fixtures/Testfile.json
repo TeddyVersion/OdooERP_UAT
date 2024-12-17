@@ -1,0 +1,8 @@
+{
+    "correctEmail" : "testemployee@achievewithoutborders.com",
+    "correctPassword" : "2bWzj35x34q020p",
+    "incorrectEmail" : "textemployee@achieve.com",
+    "incorrectPassword" : "askdfjalsdf",
+    "errorMessage" : "Wrong login/password"
+  }
+  

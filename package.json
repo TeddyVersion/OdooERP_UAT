@@ -1,0 +1,19 @@
+{
+  "name": "Automation Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tewodros Mesay",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  },
+  "devDependencies": {
+    "cypress-recurse": "^1.23.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
